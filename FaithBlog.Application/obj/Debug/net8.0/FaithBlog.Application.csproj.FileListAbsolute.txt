@@ -1,0 +1,17 @@
+D:\Work\faithDemo\FaithBlog.Application\bin\Debug\net8.0\FaithBlog.Application.deps.json
+D:\Work\faithDemo\FaithBlog.Application\bin\Debug\net8.0\FaithBlog.Application.dll
+D:\Work\faithDemo\FaithBlog.Application\bin\Debug\net8.0\FaithBlog.Application.pdb
+D:\Work\faithDemo\FaithBlog.Application\bin\Debug\net8.0\FaithBlog.Domain.dll
+D:\Work\faithDemo\FaithBlog.Application\bin\Debug\net8.0\FaithBlog.Domain.pdb
+D:\Work\faithDemo\FaithBlog.Application\obj\Debug\net8.0\FaithBlog.Application.csproj.AssemblyReference.cache
+D:\Work\faithDemo\FaithBlog.Application\obj\Debug\net8.0\FaithBlog.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\faithDemo\FaithBlog.Application\obj\Debug\net8.0\FaithBlog.Application.AssemblyInfoInputs.cache
+D:\Work\faithDemo\FaithBlog.Application\obj\Debug\net8.0\FaithBlog.Application.AssemblyInfo.cs
+D:\Work\faithDemo\FaithBlog.Application\obj\Debug\net8.0\FaithBlog.Application.csproj.CoreCompileInputs.cache
+D:\Work\faithDemo\FaithBlog.Application\obj\Debug\net8.0\FaithBlo.B73DE81C.Up2Date
+D:\Work\faithDemo\FaithBlog.Application\obj\Debug\net8.0\FaithBlog.Application.dll
+D:\Work\faithDemo\FaithBlog.Application\obj\Debug\net8.0\refint\FaithBlog.Application.dll
+D:\Work\faithDemo\FaithBlog.Application\obj\Debug\net8.0\FaithBlog.Application.pdb
+D:\Work\faithDemo\FaithBlog.Application\obj\Debug\net8.0\ref\FaithBlog.Application.dll
+D:\Work\faithDemo\FaithBlog.Application\bin\Debug\net8.0\FaithBlog.Shared.dll
+D:\Work\faithDemo\FaithBlog.Application\bin\Debug\net8.0\FaithBlog.Shared.pdb

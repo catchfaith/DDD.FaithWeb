@@ -1,0 +1,6 @@
+@FaithBlog.Core_HostAddress = http://localhost:5153
+
+GET {{FaithBlog.Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

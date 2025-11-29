@@ -1,0 +1,15 @@
+{
+  "ReplaceSettings": {
+    "Files": [
+      "D:\\Data\\backup.sql"
+    ],
+    "Replacements": [
+      {
+        "OldValue": "kingsq",
+        "NewValue": "system"
+      }
+    ],
+    "OutputSuffix": ".out", // 输出文件名后缀：backup.sql.out
+    "Encoding": "utf-8" // 视实际编码调整，如 gbk
+  }
+}

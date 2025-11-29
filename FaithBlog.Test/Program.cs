@@ -1,0 +1,4 @@
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+var conn = "nfSjD2Diu4AnutIHkpfGuxIB1QYjlpGTDIU/sYGyi3k51htwl9vNjQrRSBvbUiLVxTPgFFwxYUBvEhyFXnCz0oqzFezkeMTSirK2W7JWcYfyNmNMYZ1IZOcVFP9dh/Np39NQ9v2L9WFHUXWNXgGS0w==";
+var key = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhafQRJ2k7KiEBoJQaxBuqv0wAkEwU1rYz1cbssK0GA+VJXuIGXRU3av2XVKvWoZpiZErEmO0zzcuMDs4aqskkKUbfGCPTNGpW2vfv474B3yoLHaeR9+hNiGJluWAhxijBX/QvltbRhbbID04KpTbN/DdUBT/m7NO67xExzyxnK4hmdBuwaFeS7H9IHowayj64XFTo+eCytVWYVpzgfBPwjXqVL+q6aZVKilkb1HUTOmdGnE+KKrX647Kv3cLA5jLQoknrgXuO/ln+oJ7umAzzjIu9ruRnQuHuF2xUg2vjIkhui1+7QmFBJdow2MdN4KpHUVYFk52vGJ7bF1LKnaauwIDAQAB";

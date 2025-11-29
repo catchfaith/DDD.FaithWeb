@@ -1,0 +1,11 @@
+D:\Work\faithDemo\FaithBlog.Shared\bin\Debug\net8.0\FaithBlog.Shared.deps.json
+D:\Work\faithDemo\FaithBlog.Shared\bin\Debug\net8.0\FaithBlog.Shared.dll
+D:\Work\faithDemo\FaithBlog.Shared\bin\Debug\net8.0\FaithBlog.Shared.pdb
+D:\Work\faithDemo\FaithBlog.Shared\obj\Debug\net8.0\FaithBlog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\faithDemo\FaithBlog.Shared\obj\Debug\net8.0\FaithBlog.Shared.AssemblyInfoInputs.cache
+D:\Work\faithDemo\FaithBlog.Shared\obj\Debug\net8.0\FaithBlog.Shared.AssemblyInfo.cs
+D:\Work\faithDemo\FaithBlog.Shared\obj\Debug\net8.0\FaithBlog.Shared.csproj.CoreCompileInputs.cache
+D:\Work\faithDemo\FaithBlog.Shared\obj\Debug\net8.0\FaithBlog.Shared.dll
+D:\Work\faithDemo\FaithBlog.Shared\obj\Debug\net8.0\refint\FaithBlog.Shared.dll
+D:\Work\faithDemo\FaithBlog.Shared\obj\Debug\net8.0\FaithBlog.Shared.pdb
+D:\Work\faithDemo\FaithBlog.Shared\obj\Debug\net8.0\ref\FaithBlog.Shared.dll
