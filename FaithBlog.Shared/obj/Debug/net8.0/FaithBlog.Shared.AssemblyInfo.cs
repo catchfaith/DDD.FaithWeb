@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FaithBlog.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3f57586d91cf18b5c1df2db8528886c1f086024")]
 [assembly: System.Reflection.AssemblyProductAttribute("FaithBlog.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FaithBlog.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

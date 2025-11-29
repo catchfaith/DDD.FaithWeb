@@ -57,6 +57,10 @@ namespace FaithBlog.Domain.Entities
             this.Remark = userUpdateParam.Remark;
         }
 
+        public void Delete() {
+            this.DelFlag = "2";
+        }
+
         private string HashPassword(string password)
         {
             if (string.IsNullOrWhiteSpace(password))

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\faithDemo\\FaithBlog.Infrastructure\\FaithBlog.Infrastructure.csproj": {}
+    "D:\\faith\\DDD.FaithWeb\\FaithBlog.Infrastructure\\FaithBlog.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Work\\faithDemo\\FaithBlog.Domain\\FaithBlog.Domain.csproj": {
+    "D:\\faith\\DDD.FaithWeb\\FaithBlog.Domain\\FaithBlog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\faithDemo\\FaithBlog.Domain\\FaithBlog.Domain.csproj",
+        "projectUniqueName": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Domain\\FaithBlog.Domain.csproj",
         "projectName": "FaithBlog.Domain",
-        "projectPath": "D:\\Work\\faithDemo\\FaithBlog.Domain\\FaithBlog.Domain.csproj",
+        "projectPath": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Domain\\FaithBlog.Domain.csproj",
         "packagesPath": "C:\\Users\\catch\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\faithDemo\\FaithBlog.Domain\\obj\\",
+        "outputPath": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\Work\\faithDemo\\FaithBlog.Infrastructure\\FaithBlog.Infrastructure.csproj": {
+    "D:\\faith\\DDD.FaithWeb\\FaithBlog.Infrastructure\\FaithBlog.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\faithDemo\\FaithBlog.Infrastructure\\FaithBlog.Infrastructure.csproj",
+        "projectUniqueName": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Infrastructure\\FaithBlog.Infrastructure.csproj",
         "projectName": "FaithBlog.Infrastructure",
-        "projectPath": "D:\\Work\\faithDemo\\FaithBlog.Infrastructure\\FaithBlog.Infrastructure.csproj",
+        "projectPath": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Infrastructure\\FaithBlog.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\catch\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\faithDemo\\FaithBlog.Infrastructure\\obj\\",
+        "outputPath": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -105,11 +105,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Work\\faithDemo\\FaithBlog.Domain\\FaithBlog.Domain.csproj": {
-                "projectPath": "D:\\Work\\faithDemo\\FaithBlog.Domain\\FaithBlog.Domain.csproj"
+              "D:\\faith\\DDD.FaithWeb\\FaithBlog.Domain\\FaithBlog.Domain.csproj": {
+                "projectPath": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Domain\\FaithBlog.Domain.csproj"
               },
-              "D:\\Work\\faithDemo\\FaithBlog.Shared\\FaithBlog.Shared.csproj": {
-                "projectPath": "D:\\Work\\faithDemo\\FaithBlog.Shared\\FaithBlog.Shared.csproj"
+              "D:\\faith\\DDD.FaithWeb\\FaithBlog.Shared\\FaithBlog.Shared.csproj": {
+                "projectPath": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Shared\\FaithBlog.Shared.csproj"
               }
             }
           }
@@ -179,14 +179,14 @@
         }
       }
     },
-    "D:\\Work\\faithDemo\\FaithBlog.Shared\\FaithBlog.Shared.csproj": {
+    "D:\\faith\\DDD.FaithWeb\\FaithBlog.Shared\\FaithBlog.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\faithDemo\\FaithBlog.Shared\\FaithBlog.Shared.csproj",
+        "projectUniqueName": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Shared\\FaithBlog.Shared.csproj",
         "projectName": "FaithBlog.Shared",
-        "projectPath": "D:\\Work\\faithDemo\\FaithBlog.Shared\\FaithBlog.Shared.csproj",
+        "projectPath": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Shared\\FaithBlog.Shared.csproj",
         "packagesPath": "C:\\Users\\catch\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\faithDemo\\FaithBlog.Shared\\obj\\",
+        "outputPath": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

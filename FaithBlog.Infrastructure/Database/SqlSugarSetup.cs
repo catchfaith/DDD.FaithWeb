@@ -59,7 +59,7 @@ namespace FaithBlog.Infrastructure.Database
 
                 return client;
             });
-
+            services.AddScoped(typeof(IBaseRepository<,>), typeof(BaseRepository<,>));
             services.AddScoped<IUserRepository, UserRepository>();
 
             return services;

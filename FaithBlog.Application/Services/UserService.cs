@@ -29,9 +29,11 @@ namespace FaithBlog.Application.Services
             return await repository.AddAsync(user);
         }
 
-        public Task<object> DeleteUserAsync(long id)
+        public async Task<object> DeleteUserAsync(long id)
         {
-            throw new NotImplementedException();
+            var user = await repository.GetUserByIdAsync(id);
+            user.Delete();
+            return await repository.DeleteAsync(user);
         }
 
         public async Task<object> UpdateUserAsync(UserUpdateDto updateDto,long userId)

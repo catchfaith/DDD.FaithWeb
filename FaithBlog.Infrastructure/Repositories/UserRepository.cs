@@ -9,18 +9,21 @@ using System.Threading.Tasks;
 
 namespace FaithBlog.Infrastructure.Repositories
 {
-    public class UserRepository : IUserRepository
+    public class UserRepository : BaseRepository<SysUser,long>,IUserRepository
     {
-        private readonly ISqlSugarClient _db;
 
-        public UserRepository(ISqlSugarClient db)
+        public UserRepository(ISqlSugarClient db) : base(db)
         {
-            _db = db;
         }
 
         public async Task<bool> AddAsync(SysUser user)
         {
             return await _db.Insertable(user).ExecuteCommandAsync() > 0;
+        }
+
+        public async Task<bool> DeleteAsync(SysUser user)
+        {
+            return await _db.Updateable<SysUser>().ExecuteCommandAsync() > 0;
         }
 
         public async Task<SysUser> GetUserByIdAsync(long userId)

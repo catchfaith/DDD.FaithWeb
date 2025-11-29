@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eUmCP1BvelY=",
+  "dgSpecHash": "PbNdqKFuSZM=",
   "success": true,
-  "projectFilePath": "D:\\Work\\faithDemo\\FaithBlog.Domain\\FaithBlog.Domain.csproj",
+  "projectFilePath": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Domain\\FaithBlog.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\catch\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\catch\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

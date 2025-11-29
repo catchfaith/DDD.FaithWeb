@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\faithDemo\\FaithBlog.Test\\FaithBlog.Test.csproj",
+      "projectUniqueName": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Test\\FaithBlog.Test.csproj",
       "projectName": "FaithBlog.Test",
-      "projectPath": "D:\\Work\\faithDemo\\FaithBlog.Test\\FaithBlog.Test.csproj",
+      "projectPath": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Test\\FaithBlog.Test.csproj",
       "packagesPath": "C:\\Users\\catch\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\faithDemo\\FaithBlog.Test\\obj\\",
+      "outputPath": "D:\\faith\\DDD.FaithWeb\\FaithBlog.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
